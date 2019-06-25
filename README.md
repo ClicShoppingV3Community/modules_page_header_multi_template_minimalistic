@@ -16,6 +16,7 @@ Modules:
 - Multi languages
 
 Recommendation and documentation specific use :
+
 The module is installed in the Default template and the Custom/Shop directory
 If you have another template, you must copy the template files inside your new template.
 
@@ -38,5 +39,5 @@ All informations about the ClicShopping
 
  trademark License info : https://www.clicshopping.org/forum/trademark/ 
 
-![image](https://github.com/ClicShoppingOfficialModulesV3/modules_page_header_multi_template_minimalistic/blob/master/ModuleInfosJson/image.png)
+![image](https://github.com/ClicShoppingV3Community/modules_page_header_multi_template_minimalistic/blob/master/ModuleInfosJson/image.png)
 
