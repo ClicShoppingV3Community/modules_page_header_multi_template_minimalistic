@@ -2,6 +2,7 @@
   "title":			"modules_page_header_multi_template_minimalistic",
   "type":           "modules_page_header_multi_template_minimalistic",
   "vendor":			"modules_header",
+  "is_core": "No",
   "is_free":   "yes",
   "website_link_to_sell" : "",
   "version":			1.0,
